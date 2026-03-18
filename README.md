@@ -133,16 +133,8 @@ jupyter notebook
 
 ---
 
-## 📬 Connect With Me
+## 📬 Connect With Me    
 
 [![GitHub](https://img.shields.io/badge/GitHub-RawatXd-black?style=flat&logo=github)](https://github.com/RawatXd)
 
 ---
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-> ⭐ If you found this project helpful, please consider giving it a star!
